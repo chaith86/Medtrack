@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "MedTrack",
-    "slug": "MedTrack",
+    "name": "Mediplus",
+    "slug": "mediplus",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "medtrack",
+    "scheme": "mediplus",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
